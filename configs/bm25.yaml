@@ -1,0 +1,11 @@
+nombre: "Astronomía · BM25 (léxico)"
+retriever: bm25
+top_k: 5
+chunk_size: 300
+chunk_overlap: 50
+corpus_dir: data
+imagenes_dir: imagenes
+index_dir: indices/bm25
+dominio: astronomía y exploración espacial
+ollama_model: gemma3:12b
+ollama_url: http://localhost:11434/api/generate

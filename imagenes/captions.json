@@ -1,0 +1,302 @@
+{
+ "Apolo_11__Archivo_A_Man_on_the_Moon_AS11-40-5903_cropped_.jpg": {
+  "articulo": "Apolo 11",
+  "caption": "Esta es una fotografía en color tomada durante la misión Apolo 11. Muestra al astronauta Buzz Aldrin en la superficie lunar, con el astronauta Neil Armstrong fotografiándolo. Se observa la figura de Aldrin con su traje espacial, la bandera estadounidense en su hombro, y su sombra proyectada sobre el polvo lunar. El reflejo en el visor del casco de Aldrin muestra a Armstrong y parte del módulo lunar Eagle.",
+  "modelo": "gemma3:12b"
+ },
+ "Apolo_11__Archivo_Buzz_Aldrin_s_bootprint_on_the_Moon_AS11-40-5877.jpg": {
+  "articulo": "Apolo 11",
+  "caption": "Esta es una fotografía en blanco y negro tomada durante la misión Apolo 11. Muestra una huella de pie en la superficie lunar, con detalles de la compactación del suelo causada por el peso. Se observa la textura granular del regolito lunar, así como la forma distintiva de la suela de una bota espacial. La imagen, tomada desde arriba, forma parte de un archivo de la Hasselblad utilizado en la EVA (Actividad Extravehicular).",
+  "modelo": "gemma3:12b"
+ },
+ "Apolo_11__Archivo_NASM-NASM2013-02663.jpg": {
+  "articulo": "Apolo 11",
+  "caption": "Esta es una fotografía del interior del módulo de comando \"Columbia\" de la misión Apolo 11. La imagen muestra una vista cenital del panel de control y los asientos de los astronautas, con numerosos instrumentos, interruptores y luces. Predominan los colores gris, negro y marrón, con detalles en rojo y amarillo. Se pueden observar números y símbolos en los paneles de control, así como una etiqueta que parece indicar \"E11\".",
+  "modelo": "gemma3:12b"
+ },
+ "Cintur_n_de_asteroides__Archivo_Zodiakallicht.jpg": {
+  "articulo": "Cinturón de asteroides",
+  "caption": "Esta es una fotografía en blanco y negro de un fenómeno astronómico. Muestra el \"Cinturón Zodíaco\" (Zodiacal Light), visible como un tenue brillo difuso en el cielo nocturno, extendiéndose desde el horizonte. Se observan siluetas de árboles en el primer plano, y el cielo está salpicado de estrellas. En la parte inferior de la imagen, se lee el texto \"PLATE V\" y \"THE ZODIACAL LIGHT. Observed February 20, 1876\".",
+  "modelo": "gemma3:12b"
+ },
+ "Cintur_n_de_asteroides__Archivo_Asteroid_proper_elements_i_vs_e.png": {
+  "articulo": "Cinturón de asteroides",
+  "caption": "Esta es una ilustración digital de un fondo azul intenso con una textura granulada, rodeado por un borde negro. La imagen representa visualmente el cinturón de asteroides, como se indica en el artículo de Wikipedia. No se observan asteroides individuales, sino una distribución uniforme de puntos azules sobre un fondo oscuro, sugiriendo la densidad de objetos en la región. No hay texto ni etiquetas visibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Cintur_n_de_asteroides__Archivo_Dawn_Flight_Configuration_2.jpg": {
+  "articulo": "Cinturón de asteroides",
+  "caption": "Esta es una ilustración artística de una sonda espacial en el cinturón de asteroides. La imagen muestra la sonda viajando a través del espacio, rodeada de numerosos asteroides de diferentes tamaños y una nebulosa rojiza y oscura al fondo. Se observan paneles solares extendidos en la sonda, así como un haz de luz que emana de ella. En la esquina inferior derecha, se aprecia una firma que dice \"Mark Hennig\".",
+  "modelo": "gemma3:12b"
+ },
+ "Curiosity__Archivo_PIA16918-MarsCuriosityRover-RockNest-HiRezWB-20121116.jpg": {
+  "articulo": "Curiosity",
+  "caption": "Esta es una fotografía panorámica compuesta de múltiples imágenes tomadas por el rover Curiosity de la NASA en Marte. La imagen muestra el rover en primer plano, con un paisaje marciano de color rojizo y terreno rocoso extendiéndose hasta el horizonte. Se observa una colina en la distancia y el rover presenta una estructura compleja de paneles y componentes. La imagen está balanceada en color para mejorar la visibilidad de los detalles del terreno.",
+  "modelo": "gemma3:12b"
+ },
+ "Curiosity__Archivo_First_360_color_panorama_from_the_Curosity_rover.jpg": {
+  "articulo": "Curiosity",
+  "caption": "Esta es una fotografía panorámica en color tomada por el rover Curiosity de la NASA. La imagen muestra una vista de 360 grados del lugar de aterrizaje del rover, incluyendo la parte superior de una montaña, identificada como parte del Monte Sharp, que se encuentra a unos 20 kilómetros de distancia. Predominan los tonos rojizos y anaranjados del suelo marciano, con texturas arenosas y rocosas visibles. Se aprecian los componentes del rover en el primer plano, y se observa una etiqueta o cifra en la esquina inferior izquierda de la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Curiosity__Archivo_PIA16937-MarsCuriosityRover-SelfPortraitAtJohnKlein-20130510.jpg": {
+  "articulo": "Curiosity",
+  "caption": "Esta es una fotografía compuesta de múltiples exposiciones tomadas por el rover Curiosity de la NASA. La imagen muestra un autorretrato del rover en la superficie marciana, con el vehículo ocupando gran parte del encuadre. Predominan los tonos rojizos y anaranjados característicos del suelo marciano, junto con los colores plateados y blancos de la estructura del rover. Se observa una gran pala de excavación en primer plano y, en la parte superior, una cámara montada en un brazo telescópico.",
+  "modelo": "gemma3:12b"
+ },
+ "Europa_sat_lite___Archivo_Europa_in_natural_color.png": {
+  "articulo": "Europa (satélite)",
+  "caption": "Esta es una fotografía a color verdadero de la luna Europa de Júpiter, tomada por la sonda Juno el 29 de septiembre de 2022. La imagen muestra la mitad de Europa, el lado que siempre mira hacia Júpiter, con una superficie predominantemente blanca y grisácea. Se observan numerosas líneas y fracturas en la superficie, creando una textura compleja. No hay texto, etiquetas o cifras legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Europa_sat_lite___Archivo_PIA19048_realistic_color_Europa_mosaic_original_.jpg": {
+  "articulo": "Europa (satélite)",
+  "caption": "Esta es una imagen reprocesada a color, probablemente basada en fotografías tomadas por la sonda Galileo de la NASA. Muestra la superficie helada de la luna Europa de Júpiter, ocupando la mayor parte del encuadre. Se observan tonos de blanco, gris y marrón, con una red de líneas y marcas que parecen grietas o fracturas en la superficie helada. El fondo es negro, lo que resalta la forma esférica de Europa.",
+  "modelo": "gemma3:12b"
+ },
+ "Europa_sat_lite___Archivo_Europa_Ice_Rafts.jpg": {
+  "articulo": "Europa (satélite)",
+  "caption": "Esta es una imagen de alta resolución que muestra la corteza helada de Europa, una de las lunas de Júpiter. La imagen presenta una superficie fragmentada con placas de hielo que alcanzan hasta 13 km de diámetro, que parecen haber sido desplazadas y reordenadas. Predominan los tonos de gris, revelando una textura rugosa y patrones de fracturas que recuerdan a la fragmentación del hielo polar. No se observa texto o etiquetas legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "J_piter_planeta___Archivo_Jupiter_from_Voyager_1.jpg": {
+  "articulo": "Júpiter (planeta)",
+  "caption": "Esta es una fotografía de la atmósfera de Júpiter, tomada por la sonda Voyager 1. La imagen muestra una vista detallada de las nubes del planeta, con una amplia gama de colores que incluyen tonos de marrón, blanco, azul y beige. Se observa una estructura prominente en la parte superior derecha, identificada como la Gran Mancha Roja, que aparece como una ovalada de color marrón.  Además, se distinguen bandas onduladas de nubes de diferentes colores que recorren la superficie del planeta.",
+  "modelo": "gemma3:12b"
+ },
+ "J_piter_planeta___Archivo_Juno_Mission_to_Jupiter_2010_Artist_s_Concept_.jpg": {
+  "articulo": "Júpiter (planeta)",
+  "caption": "Esta es una ilustración artística de la sonda espacial Juno orbitando el planeta Júpiter. La imagen muestra Júpiter con sus característicos patrones de bandas nubosas en tonos beige, marrón y blanco, y la sonda Juno con sus paneles solares extendidos. El fondo es un espacio negro salpicado de estrellas, y se aprecia una pequeña luz brillante que podría ser otro cuerpo celeste. No hay texto ni etiquetas legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "J_piter_planeta___Archivo_JUNO_-_PIA13746.jpg": {
+  "articulo": "Júpiter (planeta)",
+  "caption": "Esta es una ilustración artística de la sonda espacial Juno orbitando el planeta Júpiter. La imagen muestra la sonda con sus paneles solares extendidos, frente a la superficie de Júpiter, que exhibe sus característicos patrones de bandas y remolinos en tonos beige, marrón, blanco y naranja. El fondo es un espacio negro salpicado de estrellas, y se aprecia una pequeña luz brillante que podría ser otra estrella o planeta. No hay texto o etiquetas legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Luna__Archivo_LRO_WAC_North_Pole_Mosaic_PIA14024_.jpg": {
+  "articulo": "Luna",
+  "caption": "Esta es una fotografía compuesta (mosaic) del polo norte de la Luna, presentada en una proyección estereográfica polar. La imagen muestra una superficie lunar densamente craterizada, con una gran estructura central que parece un cráter complejo o una cuenca. Predominan los tonos de gris, desde el negro hasta el blanco, representando las variaciones en la reflectividad de la superficie lunar. No se observa texto o etiquetas legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Luna__Archivo_LRO_WAC_South_Pole_Mosaic.jpg": {
+  "articulo": "Luna",
+  "caption": "Esta es una imagen tipo mosaico, probablemente obtenida a partir de fotografías. Muestra una vista amplia de la región del polo sur de la Luna, con una extensión de aproximadamente 600 km. La imagen es en blanco y negro y revela una superficie lunar densamente craterizada, con un gran cráter prominente en el centro. Se observan líneas que sugieren una cuadrícula de coordenadas superpuesta a la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Luna__Archivo_Moon_from_the_south.jpg": {
+  "articulo": "Luna",
+  "caption": "Esta es una fotografía astronómica de la Luna, tomada desde el hemisferio sur. La imagen muestra la superficie lunar, con sus característicos cráteres y zonas más oscuras, en tonos de gris. Se aprecia una textura irregular y detallada, producto de impactos y procesos geológicos. No se observa texto o etiquetas legibles en la imagen, aunque la descripción del archivo indica que fue capturada con un telescopio Meade LX200 y una cámara Nikon Df desde Montevideo, Uruguay.",
+  "modelo": "gemma3:12b"
+ },
+ "Mercurio_planeta___Archivo_Mercury_Magnetic_Field_NASA.jpg": {
+  "articulo": "Mercurio (planeta)",
+  "caption": "Esta es una ilustración científica que representa el campo magnético de Mercurio en interacción con el viento solar. Muestra un corte transversal del planeta Mercurio, representado en tonos marrones y dorados, rodeado por líneas azules que simbolizan el campo magnético. Se observa una gráfica superpuesta que representa la intensidad del campo magnético (en nT) en función de la posición en relación al planeta, indicando puntos de \"magnetopausa\" y \"bow shock\". El gráfico incluye etiquetas en el eje horizontal (\"Planet-Sun line position in Mercury radii\") y en el eje vertical (\"Magnetic Field Strength (nT)\").",
+  "modelo": "gemma3:12b"
+ },
+ "Mercurio_planeta___Archivo_MESSENGER.jpg": {
+  "articulo": "Mercurio (planeta)",
+  "caption": "Esta es una ilustración artística que representa la sonda espacial MESSENGER orbitando el planeta Mercurio. Se observa la sonda con sus paneles solares extendidos, junto a Mercurio, que muestra una superficie con tonos marrones y amarillentos. El fondo es un espacio negro salpicado de estrellas, con el Sol visible como una fuente de luz brillante. No se aprecian textos o etiquetas legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Mercurio_planeta___Archivo_BepiColombo_spacecraft_model.png": {
+  "articulo": "Mercurio (planeta)",
+  "caption": "Esta es una ilustración artística de la misión BepiColombo de la Agencia Espacial Europea. La imagen muestra la configuración de crucero de la misión, incluyendo el Orbitador Planetario de Mercurio a la izquierda, el Orbitador Magnetosférico de Mercurio a la derecha, y un módulo parasol en el centro. Se observan paneles solares desplegados, antenas y varios componentes estructurales de las naves espaciales, con una paleta de colores que incluye gris, negro, amarillo y plateado. No se aprecian textos o etiquetas legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Neptuno_planeta___Archivo_Detail_of_Triton_-_GPN-2000-000422.jpg": {
+  "articulo": "Neptuno (planeta)",
+  "caption": "Esta es una fotografía en color de la luna de Neptuno, Tritón. La imagen muestra la superficie de Tritón, revelando detalles topográficos con una resolución de aproximadamente 10 kilómetros. Predominan los tonos de blanco, gris y verde, con una superficie que parece estar cubierta de hielo y con una textura rugosa. Se observa un halo tenue alrededor del objeto, y en la parte inferior derecha se aprecian algunos puntos brillantes.",
+  "modelo": "gemma3:12b"
+ },
+ "Neptuno_planeta___Archivo_Neptune_Earth_size_comparison_true_color.jpg": {
+  "articulo": "Neptuno (planeta)",
+  "caption": "Esta es una imagen compuesta que compara el tamaño de la Tierra y Neptuno. Muestra una representación de la Tierra, con sus características geográficas azules y verdes, junto a una imagen de Neptuno, de color azul pálido y con una atmósfera visiblemente difusa. La imagen es una comparación visual de escala entre los dos planetas, ambos situados sobre un fondo negro. No se observan etiquetas o cifras adicionales en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Neptuno_planeta___Archivo_Neptune_Voyager2_color_calibrated.png": {
+  "articulo": "Neptuno (planeta)",
+  "caption": "Esta es una fotografía a color de Neptuno, tomada por la sonda Voyager 2 de la NASA el 17 de agosto de 1989. La imagen muestra el planeta como una esfera azul pálido, con algunas variaciones de tono y una estructura visible que podría interpretarse como una formación nubosa en el hemisferio superior. La fotografía está compuesta por tres marcos (naranja, verde y azul) calibrados para representar el color real del planeta. No se aprecian etiquetas o cifras legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Perseverance__Archivo_PIA23153-BuildingMars2020Rover-AttachingHelicopter-20190828.jpg": {
+  "articulo": "Perseverance",
+  "caption": "Esta es una fotografía que muestra a miembros del equipo de la NASA trabajando en un modelo de prueba del helicóptero Mars Helicopter. Se observa al helicóptero con sus rotores y una estructura metálica, mientras que los técnicos, vestidos con trajes de protección, manipulan un material reflectante adherido a su superficie. Los colores predominantes son el dorado, el plateado y el blanco, con un fondo oscuro que resalta los elementos principales. Se aprecia una etiqueta o identificación en la parte superior del helicóptero.",
+  "modelo": "gemma3:12b"
+ },
+ "Perseverance__Archivo_PIA23499-Mars2020Rover-FirstTestDrive-20191217a.jpg": {
+  "articulo": "Perseverance",
+  "caption": "Esta es una fotografía tomada en una sala limpia del Laboratorio de Propulsión a Chorro de la NASA. La imagen muestra el rover Mars 2020 (Perseverance) sobre una plataforma de pruebas, durante una prueba de conducción. Se observan varios ingenieros con trajes de protección en el fondo, y en las paredes hay carteles con imágenes de misiones espaciales. Los colores predominantes son el blanco de los trajes, el gris metálico del rover y el azul de la plataforma.",
+  "modelo": "gemma3:12b"
+ },
+ "Perseverance__Archivo_PIA23499-Mars2020Rover-FirstTestDrive-20191217b.jpg": {
+  "articulo": "Perseverance",
+  "caption": "Esta es una fotografía tomada en una sala limpia del Laboratorio de Propulsión a Chorro de la NASA. La imagen muestra el rover Mars 2020 (Perseverance) sobre una plataforma de pruebas, mientras ingenieros observan una prueba de conducción. Se observan colores predominantemente blancos, grises y plateados en el rover y el entorno, con estructuras metálicas complejas visibles en el vehículo. En el fondo, se aprecian paneles con imágenes y una pantalla con información numérica.",
+  "modelo": "gemma3:12b"
+ },
+ "Sol__Archivo_Our_Sun_at_a_distance_of_150_Mio._km.jpg": {
+  "articulo": "Sol",
+  "caption": "Esta es una fotografía tomada por la sonda Solar Orbiter en luz ultravioleta de onda corta. La imagen muestra el Sol, específicamente su corona, la capa más externa y caliente de su atmósfera. Se observan colores dorados y amarillos, con estructuras complejas que sugieren el flujo de plasma a lo largo de líneas de campo magnético. No se aprecian textos, etiquetas o cifras legibles directamente en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Sol__Archivo_The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA_s_Solar_Dynamics_Obs.jpg": {
+  "articulo": "Sol",
+  "caption": "Esta es una imagen de color falso del Sol, obtenida mediante fotografía. Muestra la superficie solar en la región ultravioleta extrema del espectro, revelando una textura granulada y numerosas manchas brillantes. Predominan los tonos naranja y rojo, con algunas áreas más claras que sugieren actividad solar. La imagen está tomada por el Atmospheric Imaging Assembly (AIA 304) del Solar Dynamics Observatory (SDO) de la NASA.",
+  "modelo": "gemma3:12b"
+ },
+ "Sol__Archivo_The_Sun_in_white_light.jpg": {
+  "articulo": "Sol",
+  "caption": "Esta es una fotografía del Sol tomada el 8 de mayo de 2019 en luz blanca (color verdadero). La imagen muestra la superficie solar, con manchas solares identificadas como AR2740 (a la derecha) y AR2741 (a la izquierda). Se observan faculas, manchas blancas cerca de AR2741, así como el oscurecimiento del borde y celdas de convección, llamadas granulos, distribuidas por toda la superficie. No se aprecia texto o etiquetas adicionales en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Telescopio_espacial_Hubble__Archivo_Hs-2004-07-a-full_jpgNR.jpg": {
+  "articulo": "Telescopio espacial Hubble",
+  "caption": "Esta es una fotografía astronómica tomada por el Telescopio Espacial Hubble. Muestra una vista profunda del espacio, revelando una gran cantidad de galaxias distantes. Los colores predominantes son el negro del espacio, con puntos de luz en tonos amarillos, rojizos y azules, representando las galaxias. Se observan diversas estructuras galácticas, incluyendo espirales y elípticas, con diferentes niveles de brillo y distorsión debido a la gravedad.",
+  "modelo": "gemma3:12b"
+ },
+ "Telescopio_espacial_Hubble__Archivo_SN_1006_Supernova_Remnant.jpg": {
+  "articulo": "Telescopio espacial Hubble",
+  "caption": "Esta es una fotografía astronómica compuesta, tomada por el Telescopio Espacial Hubble. Muestra una sección muy delgada de un remanente de supernova, producto de una explosión estelar ocurrida hace más de 1000 años. Predominan los colores rojo oscuro y negro, con estrellas brillantes dispersas en el fondo. Se observa una estructura alargada y difusa que parece ser una filamento de gas y polvo, resultado de la explosión.",
+  "modelo": "gemma3:12b"
+ },
+ "Telescopio_espacial_Hubble__Archivo_Antennae_galaxies_xl.jpg": {
+  "articulo": "Telescopio espacial Hubble",
+  "caption": "Esta es una fotografía astronómica tomada por el Telescopio Espacial Hubble. Muestra las Galaxias de las Antenas (NGC 4038 y NGC 4039), un par de galaxias en proceso de colisión. Se observan colores azulados y rojizos, indicativos de regiones de intensa formación estelar, así como estructuras espirales distorsionadas y brazos galácticos. La imagen incluye una leyenda de la NASA que describe la fotografía como la más nítida hasta la fecha de este par de galaxias en fusión.",
+  "modelo": "gemma3:12b"
+ },
+ "Urano_planeta___Archivo_Miranda_mosaic_in_color_-_Voyager_2.png": {
+  "articulo": "Urano (planeta)",
+  "caption": "Esta es una fotografía compuesta (mosaic) tomada por la sonda Voyager 2 de la NASA. Muestra la luna de Urano, Miranda, con una superficie marcada por complejas estructuras de surcos y cráteres. La imagen presenta una paleta de grises, con variaciones de tono que resaltan las diferentes elevaciones y características geológicas de la superficie. No se observa texto, etiquetas o cifras legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Urano_planeta___Archivo_Uranus_Earth_size_comparison_2.jpg": {
+  "articulo": "Urano (planeta)",
+  "caption": "Esta es una ilustración comparativa de tamaño que muestra el planeta Urano junto a la Tierra. La imagen presenta Urano como una esfera de color azul pálido, mucho más grande que la Tierra, que se ve como una esfera azul y blanca con detalles de continentes y nubes. El fondo es negro, lo que enfatiza el contraste entre los dos planetas.  En la descripción del archivo de Commons se indica que la escala aproximada es de 90 km por píxel.",
+  "modelo": "gemma3:12b"
+ },
+ "Urano_planeta___Archivo_Uranian_rings_scheme.png": {
+  "articulo": "Urano (planeta)",
+  "caption": "Esta es una ilustración esquemática a escala del sistema de anillos y lunas de Urano. Muestra los anillos del planeta, representados en tonos de azul y gris, con múltiples divisiones y estructuras visibles. Se identifican varias lunas con nombres de personajes de obras de Shakespeare, como Miranda, Puck, Mab, Cordelia, Rosalind, y Bianca, entre otras.  Además, se incluyen etiquetas alfanuméricas (α, β, γ, δ, ε, ζ, η, θ, 4, 5, 6) y una referencia a \"ζ/R1986U2\".",
+  "modelo": "gemma3:12b"
+ },
+ "Venus_planeta___Archivo_TerraformedVenus.jpg": {
+  "articulo": "Venus (planeta)",
+  "caption": "Esta es una ilustración conceptual de Venus terraformado. La imagen muestra el planeta Venus con una apariencia modificada, incluyendo formaciones de nubes interesantes y casquetes polares. Predominan los colores azul, blanco y verde, representando océanos, nubes y continentes respectivamente. El autor indica que la imagen se basa en el estudio de la atmósfera de Venus y que los patrones de células de Hadley terminan en 70 grados de latitud.",
+  "modelo": "gemma3:12b"
+ },
+ "Venus_planeta___Archivo_Terrestrial_planet_sizes2.jpg": {
+  "articulo": "Venus (planeta)",
+  "caption": "La imagen es un diagrama ilustrativo que muestra los tamaños relativos de los planetas terrestres de nuestro sistema solar. Se representan, de izquierda a derecha, Mercurio, Venus, la Tierra y Marte, con sus características visuales más distintivas: Mercurio es grisáceo, Venus tiene una atmósfera blanca y nubosa, la Tierra muestra océanos y continentes azules y verdes, y Marte es rojizo. El diagrama indica que las distancias entre los planetas no están a escala.",
+  "modelo": "gemma3:12b"
+ },
+ "Venus_planeta___Archivo_Pioneer_Venus_Multiprobe_spacecraft.jpg": {
+  "articulo": "Venus (planeta)",
+  "caption": "Esta es una ilustración artística que representa la misión Pioneer Venus. Muestra el planeta Venus, con una atmósfera densa de tonos amarillos y marrones, y varias sondas de la misión orbitando alrededor de él. Se observa una nave espacial, identificada como Pioneer Venus Multiprobe (Pioneer Venus 2), en primer plano, con un diseño circular y paneles solares desplegados. El fondo es un espacio negro salpicado de estrellas.",
+  "modelo": "gemma3:12b"
+ },
+ "Voyager_2__Archivo_Voyager_spacecraft.jpg": {
+  "articulo": "Voyager 2",
+  "caption": "Esta es una ilustración artística que representa la sonda espacial Voyager en vuelo. Se muestra la sonda con su característico disco de oro (la \"Golden Record\") y sus antenas desplegadas, flotando en el espacio. Los colores predominantes son el dorado, el amarillo, el negro y el azul oscuro, representando la sonda y el fondo espacial salpicado de estrellas. No se observa texto, etiquetas o cifras legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Voyager_2__Archivo_Titan_3E_Centaur_launches_Voyager_2.jpg": {
+  "articulo": "Voyager 2",
+  "caption": "Esta es una fotografía a color que muestra el lanzamiento de un cohete. Se observa un vehículo lanzador Titan III-Centaur con el satélite Voyager 2 en su parte superior, elevándose entre una densa nube de vapor y humo. La estructura metálica de la plataforma de lanzamiento es visible a la izquierda, y se aprecian los colores blanco, gris y azul del cielo. En el cuerpo del cohete se puede leer la inscripción \"UNITED STATES\".",
+  "modelo": "gemma3:12b"
+ },
+ "Voyager_2__Archivo_Voyager_Golden_Record_fx.png": {
+  "articulo": "Voyager 2",
+  "caption": "Esta es una fotografía de un disco de oro, específicamente el disco de latón de 12 pulgadas que forma parte de la sonda Voyager 2. El disco muestra una representación gráfica de diversos símbolos y diagramas, aparentemente diseñados para comunicar información sobre la humanidad y la Tierra a posibles civilizaciones extraterrestres. Predominan los tonos dorados y marrones, con líneas blancas que delinean los diferentes elementos gráficos. Se observan diagramas que representan sistemas solares, formas de onda, figuras humanas y otros símbolos abstractos.",
+  "modelo": "gemma3:12b"
+ },
+ "Estaci_n_Espacial_Internacional__Archivo_The_station_pictured_from_the_SpaceX_Crew_Dragon_5_cropped_.jpg": {
+  "articulo": "Estación Espacial Internacional",
+  "caption": "Esta es una fotografía compuesta (mosaico) de la Estación Espacial Internacional (ISS). Muestra la estación en su totalidad, con sus numerosos módulos y paneles solares extendidos. Los colores predominantes son plateados y grises, con los paneles solares mostrando tonos rojizos. La imagen fue tomada desde la nave espacial SpaceX Crew Dragon Endeavour, como se indica en la etiqueta del archivo.",
+  "modelo": "gemma3:12b"
+ },
+ "Estaci_n_Espacial_Internacional__Archivo_Endeavour_docked_to_ISS.jpg": {
+  "articulo": "Estación Espacial Internacional",
+  "caption": "Esta es una fotografía tomada desde el espacio. Muestra la Estación Espacial Internacional (ISS) con el transbordador espacial Endeavour acoplado, visible contra el fondo de la Tierra. Se observan paneles solares extensos, estructuras metálicas complejas y la curvatura del planeta Tierra con tonos azules y blancos. La imagen fue tomada por Paolo Nespoli el 23 de mayo de 2011, según la información del archivo de Commons.",
+  "modelo": "gemma3:12b"
+ },
+ "Estaci_n_Espacial_Internacional__Archivo_Node_3_toilet.jpg": {
+  "articulo": "Estación Espacial Internacional",
+  "caption": "Esta es una fotografía que muestra el interior de un módulo de la Estación Espacial Internacional (ISS). Se observa un espacio confinado con paredes blancas y una estructura metálica compleja, llena de cables, tuberías y equipos. Destacan un inodoro espacial y un equipo de monitoreo de microorganismos etiquetado como \"Microbial Tracking-2\". Se aprecian algunos elementos azules y verdes, así como etiquetas y textos en inglés en las paredes y equipos.",
+  "modelo": "gemma3:12b"
+ },
+ "Marte_planeta___Archivo_Mars_NPArea-PIA00161.jpg": {
+  "articulo": "Marte (planeta)",
+  "caption": "Esta es una imagen compuesta digital que muestra la región de Mare Boreum en Marte. La imagen combina una fotografía con información de color, mostrando un casquete polar residual en el centro, caracterizado por surcos en espiral que exponen capas de terreno. Alrededor del casquete se observan llanuras amplias y campos de dunas, con una gama de colores que incluyen tonos rojizos, marrones y blancos rosados. La imagen está enmarcada en un círculo negro y presenta una escala de latitudes que va de 65 a 9 grados.",
+  "modelo": "gemma3:12b"
+ },
+ "Marte_planeta___Archivo_Mars_global_surveyor.jpg": {
+  "articulo": "Marte (planeta)",
+  "caption": "Esta es una ilustración artística de la sonda espacial Mars Global Surveyor. La imagen muestra la sonda en órbita sobre el planeta Marte, con una vista de la superficie marciana en el fondo. Predominan los colores naranja y marrón en Marte, mientras que la sonda presenta tonos dorados y negros, con paneles solares de color amarillo. No se observa texto o etiquetas legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Marte_planeta___Archivo_VallesMarinerisHuge.jpg": {
+  "articulo": "Marte (planeta)",
+  "caption": "Esta es una imagen de un mapa topográfico de Marte. Muestra el sistema de cañones Valles Marineris, una extensa estructura que se extiende a lo largo del ecuador marciano. La imagen presenta una paleta de colores naranja y marrón, representando el relieve del terreno, con estructuras de cañones prominentes y numerosos cráteres visibles. No se observa texto o etiquetas legibles directamente en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Plut_n_planeta_enano___Archivo_Pluto_in_True_Color_-_High-Res.png": {
+  "articulo": "Plutón (planeta enano)",
+  "caption": "Esta es una fotografía de Plutón, tomada por la sonda New Horizons de la NASA. Muestra la superficie del planeta enano con una combinación de tonos marrones, beige y blancos, evidenciando diversas estructuras geológicas como cráteres, montañas y llanuras. La imagen presenta una iluminación que resalta la topografía de Plutón, con una tenue atmósfera visible en el borde. No se observan etiquetas o cifras legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Plut_n_planeta_enano___Archivo_PIA19948-NH-Pluto-Norgay-Hillary-Mountains-2050714.jpg": {
+  "articulo": "Plutón (planeta enano)",
+  "caption": "Esta es una fotografía tomada por la sonda New Horizons de la NASA. Muestra una vista iluminada desde atrás de Plutón, un planeta enano, contra un fondo negro. La imagen presenta una paleta de grises, destacando las montañas y las llanuras heladas de la superficie de Plutón, así como una neblina o bruma visible en la atmósfera. No se observan textos, etiquetas o cifras legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Plut_n_planeta_enano___Archivo_Pluto_s_Heart_-_Like_a_Cosmic_Lava_Lamp.jpg": {
+  "articulo": "Plutón (planeta enano)",
+  "caption": "Esta es una fotografía de la superficie de Sputnik Planum, una región de Plutón. Muestra una vista de hielo con patrones celulares distintivos, con áreas más oscuras y elevadas rodeando celdas más claras y planas. Los colores predominantes son tonos de blanco, gris y marrón rojizo. La imagen es una simulación generada por computadora basada en datos de la misión New Horizons de la NASA, mostrando la convección del hielo en la superficie.",
+  "modelo": "gemma3:12b"
+ },
+ "Saturno_planeta___Archivo_Cassini_Saturn_Orbit_Insertion.jpg": {
+  "articulo": "Saturno (planeta)",
+  "caption": "Esta es una ilustración artística que representa la sonda espacial Cassini durante la maniobra de inserción en la órbita de Saturno. Se muestra la sonda en primer plano, con Saturno y sus anillos visibles en el fondo, rodeados por un cielo estrellado. Los colores predominantes son el marrón y el dorado en la sonda, el beige en Saturno y el blanco y gris en los anillos, contrastando con el azul oscuro del espacio. La imagen incluye líneas que sugieren el movimiento y la trayectoria de la sonda.",
+  "modelo": "gemma3:12b"
+ },
+ "Saturno_planeta___Archivo_Saturn_global_view_from_Cassini_rings_open_Better_Colour.png": {
+  "articulo": "Saturno (planeta)",
+  "caption": "Esta es una imagen compuesta (mosaic) obtenida a partir de múltiples fotografías. Muestra el planeta Saturno con sus anillos, visto desde el espacio. Los colores predominantes son tonos beige y crema, con sombras que delinean las bandas atmosféricas y los anillos. Se observa un arco de sombras sobre el ecuador de Saturno, indicando la posición de los anillos con respecto al sol.",
+  "modelo": "gemma3:12b"
+ },
+ "Saturno_planeta___Archivo_Saturn_largest_ring_Spitzer_telescope_20091006.jpg": {
+  "articulo": "Saturno (planeta)",
+  "caption": "Esta es una ilustración artística que representa un sistema planetario con un anillo prominente alrededor de un planeta similar a Saturno. La imagen muestra el planeta en el centro, rodeado por un anillo extenso y difuso de color rojizo-anaranjado que se extiende en forma de óvalo. El fondo es oscuro, salpicado de estrellas y nebulosas rojizas. Se observa una línea que apunta al planeta con una etiqueta que indica \"Saturno\".",
+  "modelo": "gemma3:12b"
+ },
+ "Tierra__Archivo_Whole_world_-_land_and_oceans_12000.jpg": {
+  "articulo": "Tierra",
+  "caption": "Esta es una fotografía satelital compuesta de la superficie terrestre completa. Muestra el planeta Tierra visto desde el espacio, con los continentes en tonos de verde, marrón y blanco, y los océanos en azul oscuro. Se observan claramente las masas de hielo en los polos, así como la variada topografía de los diferentes territorios. No se aprecia texto ni etiquetas adicionales en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Tierra__Archivo_Location_of_Earth_9x1-English_Annot_.jpg": {
+  "articulo": "Tierra",
+  "caption": "La imagen es una ilustración que representa la ubicación de la Tierra en el universo. Muestra una secuencia de nueve marcos, cada uno representando una escala mayor, desde la Tierra y la Luna hasta el universo observable. Predominan los colores oscuros del espacio, con representaciones estilizadas de planetas, estrellas y galaxias en tonos azules, amarillos y blancos. Se observan etiquetas en inglés que identifican cada escala, incluyendo \"Inner Solar System\", \"Milky Way Galaxy\", \"Local Group\" y \"Observable Universe\".",
+  "modelo": "gemma3:12b"
+ },
+ "Tierra__Archivo_236084main_MilkyWay-full-annotated.jpg": {
+  "articulo": "Tierra",
+  "caption": "Esta es una ilustración artística que representa la estructura espiral de la Vía Láctea. Muestra una vista desde arriba de la galaxia, con sus brazos espirales (Perseus, Sagittarius, Norma, Scutum-Centaurus y Outer Arm) extendiéndose desde una barra central. La imagen utiliza una paleta de colores que va del azul oscuro al púrpura, con puntos blancos que representan estrellas. Se incluyen etiquetas con nombres de estructuras galácticas y distancias en años luz (desde 15,000 hasta 75,000 ly), así como una escala de longitud galáctica en grados.",
+  "modelo": "gemma3:12b"
+ },
+ "Tit_n_sat_lite___Archivo_Titan_globe.jpg": {
+  "articulo": "Titán (satélite)",
+  "caption": "Esta es una fotografía en blanco y negro, compuesta por nueve imágenes procesadas. Muestra una vista de disco completo de la luna Titán, satélite de Saturno. Se observan variaciones de brillo que sugieren estructuras superficiales complejas, incluyendo áreas más oscuras y brillantes que forman patrones ondulados. La imagen está centrada en una ubicación específica: 15 grados de latitud Sur y 156 grados de longitud Oeste.",
+  "modelo": "gemma3:12b"
+ },
+ "Tit_n_sat_lite___Archivo_Titan-Complex_Anti-greenhouse_.jpg": {
+  "articulo": "Titán (satélite)",
+  "caption": "Esta es una fotografía tomada desde el espacio. Muestra una vista de la atmósfera de Titán, un satélite de Saturno, con una transición gradual de tonos oscuros en la parte inferior a azules más claros en la parte superior. Se observan bandas horizontales de diferentes colores, principalmente marrones, naranjas y azules, que sugieren diferentes capas atmosféricas. No hay texto, etiquetas o cifras legibles en la imagen.",
+  "modelo": "gemma3:12b"
+ },
+ "Tit_n_sat_lite___Archivo_Titan_in_true_color_by_Kevin_M._Gill.jpg": {
+  "articulo": "Titán (satélite)",
+  "caption": "Esta es una fotografía de Titan, una de las lunas de Saturno. La imagen muestra una esfera de color amarillo-marrón, con una atmósfera opaca que difumina los bordes. Se observa una pequeña mancha más oscura en la superficie de Titan, posiblemente un impacto o característica geológica. La fotografía ha sido procesada para reducir el ruido y representar con mayor precisión los colores espectrales de la luna.",
+  "modelo": "gemma3:12b"
+ }
+}

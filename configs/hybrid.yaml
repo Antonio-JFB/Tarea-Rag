@@ -1,0 +1,16 @@
+nombre: "Astronomía · Híbrido BM25 + embeddings (RRF)"
+retriever: hybrid
+embed_model: paraphrase-multilingual-MiniLM-L12-v2
+top_k: 5
+chunk_size: 300
+chunk_overlap: 50
+corpus_dir: data
+imagenes_dir: imagenes
+index_dir: indices/hybrid
+dominio: astronomía y exploración espacial
+rrf_k: 60
+dense_weight: 0.5
+lexical_weight: 0.5
+fusion_depth: 20
+ollama_model: gemma3:12b
+ollama_url: http://localhost:11434/api/generate
